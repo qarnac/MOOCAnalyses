@@ -15,4 +15,4 @@ def simulate_browser(URL):
     driver.close()
     
 if __name__ == "__main__":
-    simulate_browser("http://www.nasa.gov//multimedia/imagegallery/iotd.html")
+    simulate_browser("http://www.nasa.gov/multimedia/imagegallery/iotd.html")
