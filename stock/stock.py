@@ -6,8 +6,7 @@ def get_price(symbols_list):
     while i < len(symbols_list):
         url = "http://finance.yahoo.com/q?s=" + symbols_list[i] + "&ql=1"
         regex = '<span id="yfs_l84_[^.]*">(.+?)</span>'
-        htmlfile = urllib.urlopen(url)
-        htmltext = htmlfile.read()
+        htmltext = urllib.urlopen(url).read()
         pattern = re.compile(regex)
         price = re.findall(pattern, htmltext)
         print "The price of", symbols_list[i], "is", price
