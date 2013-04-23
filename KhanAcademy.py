@@ -11,6 +11,9 @@ regex_lists = ['"title": "(.+?)", "translatedTitle"','"authorNickname": (.+?)}',
 # open the website and read content into buffer 
 htmltext = urllib.urlopen(url).read()
 
+def enum(**enums):
+    return type('Enum', (), enums)
+
 def scrape_result(index):
     regex = regex_lists[index]
     pattern = re.compile(regex)
