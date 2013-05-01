@@ -1,0 +1,3 @@
+Output format: title, authorNickname, url, sum Votes, Parent's tutorial_id
+First level: 
+Parent tutorial ID: 848372201
