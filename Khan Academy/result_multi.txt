@@ -1,0 +1,126 @@
+Output format: title, authorNickname, url, sum Votes, Parent's tutorial_id
+
+First level: 
+
+Parent's tutorial ID: 848372201
+(u'Mona Lisa', 'Peter Collingridge', u'http://www.khanacademy.org/cs/mona-lisa/1153732313', 367, 848372201)
+(u'Wild Dog', 'Cam Phillips', u'http://www.khanacademy.org/cs/wild-dog/1319799904', 75, 848372201)
+(u'mickey', 'Kaitlyn Semones', u'http://www.khanacademy.org/cs/mickey/1296409692', 63, 848372201)
+(u'Khan Academy', 'Ben Alpert', u'http://www.khanacademy.org/cs/khan-academy/1333109432', 53, 848372201)
+(u'mario land:vote up!!!', 'Natth4545', u'http://www.khanacademy.org/cs/mario-landvote-up/1470723349', 27, 848372201)
+
+Second level: 
+
+Parent's tutorial ID: 1153732313
+(u'GIF Reader', 'Leonardo B', u'http://www.khanacademy.org/cs/gif-reader/1449958817', 28, u'1153732313')
+(u'Soldier Portrait', 'Cam Phillips', u'http://www.khanacademy.org/cs/soldier-portrait/1319408073', 28, u'1153732313')
+(u'Evolution of Mona Lisa', 'Peter Collingridge', u'http://www.khanacademy.org/cs/evolution-of-mona-lisa/1479710170', 23, u'1153732313')
+(u'MegaMan.EXE(HeatShadow Style)', 'Josiah Barefoot\xe2\x84\xa2', u'http://www.khanacademy.org/cs/megamanexeheatshadow-style/1356074934', 20, u'1153732313')
+(u'Mona Lisa Soft Focus', 'KiserMail', u'http://www.khanacademy.org/cs/mona-lisa-soft-focus/1343641573', 5, u'1153732313')
+
+Parent's tutorial ID: 1319799904
+(u'"Smash da\' Blocks 2" (Crazy Wolf) Beta', '\xef\xa0\x8a\xe2\x98\xa3\xef\xa0\xbdD\xe2\x93\x90\xd1\x8f\xc5\xa6\xd0\xbd s\xc5\xa6\xd0\xaf\xd1\x91\xc5\xa6\xe2\x93\x92\xef\xa1\xa0\xef\xa1\xa0\xef\xa1\xa0\xd0\xbd\xef\xa0\xbd\xe2\x98\xa3\xef\xa0\x8a\xe2\x84\xa2', u'http://www.khanacademy.org/cs/smash-da-blocks-2-crazy-wolf-beta/1379777780', 2, u'1319799904')
+(u'wolf', 'stacia2001', u'http://www.khanacademy.org/cs/wolf/1330480193', 1, u'1319799904')
+(u'Wild Dog', 'Caitlin', u'http://www.khanacademy.org/cs/wild-dog/1332653353', 1, u'1319799904')
+(u'Wild Dog', 'ALAYNAJONEs', u'http://www.khanacademy.org/cs/wild-dog/1341836363', 1, u'1319799904')
+(u'Wild Dog', 'N/A', u'http://www.khanacademy.org/cs/wild-dog/1342554682', 1, u'1319799904')
+
+Parent's tutorial ID: 1296409692
+(u'Beast BBandits Lax Dude', 'kmccon1414', u'http://www.khanacademy.org/cs/beast-bbandits-lax-dude/1482228150', 3, u'1296409692')
+(u'mickey', 'kquintanillagalo18', u'http://www.khanacademy.org/cs/mickey/1327350232', 1, u'1296409692')
+(u'mickey2', 'Gary Anderson', u'http://www.khanacademy.org/cs/mickey2/1329567701', 1, u'1296409692')
+(u'mickey', 'pearl newell', u'http://www.khanacademy.org/cs/mickey/1329680512', 1, u'1296409692')
+(u'mickey mouse', 'Micah Marshall', u'http://www.khanacademy.org/cs/mickey-mouse/1330238966', 1, u'1296409692')
+
+Parent's tutorial ID: 1333109432
+(u'tree', 'razorkase', u'http://www.khanacademy.org/cs/tree/1384838988', 3, u'1333109432')
+(u'Khan Academy', '\xe2\x9d\x83\xe2\x9d\x81\xe2\x9d\x8a\xe2\x9d\x8b\xe2\x9c\xbe\xe2\x9c\xbf\xe2\x9d\x80 Patrick Z. \xe2\x9d\x80\xe2\x9c\xbf\xe2\x9c\xbe\xe2\x9d\x8b\xe2\x9d\x8a\xe2\x9d\x81\xe2\x9d\x83', u'http://www.khanacademy.org/cs/khan-academy/1422692530', 3, u'1333109432')
+(u'Khan Academy', 'lygov.g', u'http://www.khanacademy.org/cs/khan-academy/1441941952', 2, u'1333109432')
+(u'Flower', 'Kesandra Elizabeth', u'http://www.khanacademy.org/cs/flower/1462007430', 2, u'1333109432')
+(u'Khan Academy', 'N/A', u'http://www.khanacademy.org/cs/khan-academy/1346676334', 1, u'1333109432')
+
+Parent's tutorial ID: 1470723349
+(u'Mario land : negative!', 'Natth4545', u'http://www.khanacademy.org/cs/mario-land-negative/1529677349', 5, u'1470723349')
+(u'Spin off of "mario land:vote up!!!"', 'N/A', u'http://www.khanacademy.org/cs/spin-off-of-mario-landvote-up/1569548035', 2, u'1470723349')
+(u'mario land:):):0', 'yessica.villagrana', u'http://www.khanacademy.org/cs/mario-land0/1542792970', 1, u'1470723349')
+(u'Spin-off of "mario land:vote up!!!"', 'gandharvjss', u'http://www.khanacademy.org/cs/spin-off-of-mario-landvote-up/1579712469', 1, u'1470723349')
+(u'hi weird people', 'N/A', u'http://www.khanacademy.org/cs/hi-weird-people/1595412104', 1, u'1470723349')
+(u'Spin-off of "mario land:vote up!!!"', 'potato', u'http://www.khanacademy.org/cs/spin-off-of-mario-landvote-up/1601833736', 1, u'1470723349')
+
+Third level: 
+
+Parent's tutorial ID: 1449958817
+(u'Ken', 'Leonardo B', u'http://www.khanacademy.org/cs/ken/1458582372', 12, u'1449958817')
+(u'Mona Lisa (Full)', 'Leonardo B', u'http://www.khanacademy.org/cs/mona-lisa-full/1454350231', 11, u'1449958817')
+(u'Spin-off of "GIF Reader"', 'Adrian', u'http://www.khanacademy.org/cs/spin-off-of-gif-reader/1575728857', 4, u'1449958817')
+(u'GIF Reader', '\xe2\x9d\x83\xe2\x9d\x81\xe2\x9d\x8a\xe2\x9d\x8b\xe2\x9c\xbe\xe2\x9c\xbf\xe2\x9d\x80 Patrick Z. \xe2\x9d\x80\xe2\x9c\xbf\xe2\x9c\xbe\xe2\x9d\x8b\xe2\x9d\x8a\xe2\x9d\x81\xe2\x9d\x83', u'http://www.khanacademy.org/cs/gif-reader/1463705540', 1, u'1449958817')
+(u'GIF Reader', 'Lucian Rex (Pseudonym: Hank Jekyll)', u'http://www.khanacademy.org/cs/gif-reader/1466029345', 1, u'1449958817')
+
+Parent's tutorial ID: 1319408073
+(u'Soldier Portrait', 'ilikeapplesauce1788', u'http://www.khanacademy.org/cs/soldier-portrait/1393701648', 2, u'1319408073')
+(u'Soldier Portrait', 'Peter Chueh', u'http://www.khanacademy.org/cs/soldier-portrait/1357567467', 1, u'1319408073')
+(u'Soldier Portrait II', 'Helena Cowle', u'http://www.khanacademy.org/cs/soldier-portrait-ii/1385850860', 1, u'1319408073')
+(u'Soldier Portrait V', 'Charles', u'http://www.khanacademy.org/cs/soldier-portrait-v/1389976741', 1, u'1319408073')
+(u'Soldier Portrait', 'Michael Kovalenko', u'http://www.khanacademy.org/cs/soldier-portrait/1400681989', 1, u'1319408073')
+(u'Soldier Portrait', 'N/A', u'http://www.khanacademy.org/cs/soldier-portrait/1420980498', 1, u'1319408073')
+(u'Soldier Portrait', 'Andrew Lee', u'http://www.khanacademy.org/cs/soldier-portrait/1452566965', 1, u'1319408073')
+
+Parent's tutorial ID: 1479710170
+(u'Evolving an image', 'Peter Collingridge', u'http://www.khanacademy.org/cs/evolving-an-image/1485250255', 5, u'1479710170')
+(u'Evolution of Mona Lisa', 'N/A', u'http://www.khanacademy.org/cs/evolution-of-mona-lisa/1479909860', 1, u'1479710170')
+(u'Evolution of Mona Lisa', '\xe2\x9d\x83\xe2\x9d\x81\xe2\x9d\x8a\xe2\x9d\x8b\xe2\x9c\xbe\xe2\x9c\xbf\xe2\x9d\x80 Patrick Z. \xe2\x9d\x80\xe2\x9c\xbf\xe2\x9c\xbe\xe2\x9d\x8b\xe2\x9d\x8a\xe2\x9d\x81\xe2\x9d\x83', u'http://www.khanacademy.org/cs/evolution-of-mona-lisa/1486120959', 1, u'1479710170')
+(u'mona lisa', 'taya reeves', u'http://www.khanacademy.org/cs/mona-lisa/1514827182', 1, u'1479710170')
+(u'I just think this looks cool', 'Emily Lee', u'http://www.khanacademy.org/cs/i-just-think-this-looks-cool/1570292917', 1, u'1479710170')
+
+Parent's tutorial ID: 1356074934
+(u'red figurines II', 'Helena Cowle', u'http://www.khanacademy.org/cs/red-figurines-ii/1386325326', 1, u'1356074934')
+(u'MegaMan.EXE(HeatShadow Style)', 'Janardhan Gurram', u'http://www.khanacademy.org/cs/megamanexeheatshadow-style/1425084633', 1, u'1356074934')
+(u'MegaMan.EXE(HeatShadow Style)', 'Jeromy', u'http://www.khanacademy.org/cs/megamanexeheatshadow-style/1450122537', 1, u'1356074934')
+(u'MegaMan.EXE(HeatShadow Style)', 'guy', u'http://www.khanacademy.org/cs/megamanexeheatshadow-style/1455636861', 1, u'1356074934')
+(u'MegaMan.EXE(HeatShadow Style)', 'guy', u'http://www.khanacademy.org/cs/megamanexeheatshadow-style/1455765341', 1, u'1356074934')
+
+Parent's tutorial ID: 1343641573
+(u'Spin-off of "Mona Lisa Soft Focus"', 'Zachary', u'http://www.khanacademy.org/cs/spin-off-of-mona-lisa-soft-focus/1598723728', 1, u'1343641573')
+
+Parent's tutorial ID: 1330480193
+(u'wolf', 'Sajin Komamura', u'http://www.khanacademy.org/cs/wolf/1461176762', 1, u'1330480193')
+
+Parent's tutorial ID: 1332653353
+(u'Wild Dog', 'harshal111s', u'http://www.khanacademy.org/cs/wild-dog/1431236444', 1, u'1332653353')
+(u'Wild Dog', 'Anthony Rodriguez', u'http://www.khanacademy.org/cs/wild-dog/1484985760', 1, u'1332653353')
+
+Parent's tutorial ID: 1341836363
+(u'Spin-off of "Wild Dog"', 'smabed', u'http://www.khanacademy.org/cs/spin-off-of-wild-dog/1579165955', 1, u'1341836363')
+
+Parent's tutorial ID: 1482228150
+(u'CSL Lacrosse', 'kmcco202020', u'http://www.khanacademy.org/cs/csl-lacrosse/1481996997', 2, u'1482228150')
+
+Parent's tutorial ID: 1327350232
+(u'mickey at skate world', 'N/A', u'http://www.khanacademy.org/cs/mickey-at-skate-world/1417191953', 1, u'1327350232')
+(u'mickey', 'N/A', u'http://www.khanacademy.org/cs/mickey/1522820516', 1, u'1327350232')
+(u'mickey', 'N/A', u'http://www.khanacademy.org/cs/mickey/1538779965', 1, u'1327350232')
+
+Parent's tutorial ID: 1384838988
+(u'tree hand', 'kmccon1414', u'http://www.khanacademy.org/cs/tree-hand/1482102213', 1, u'1384838988')
+
+Parent's tutorial ID: 1422692530
+(u'Khan Academy Thank a lot to Patrick-Z', 'TIbet (Dylan) Agaligo', u'http://www.khanacademy.org/cs/khan-academy-thank-a-lot-to-patrick-z/1422775789', 1, u'1422692530')
+(u'Khan Academy thanks  Patrick Z. ', 'Federico Chang', u'http://www.khanacademy.org/cs/khan-academy-thanks-patrick-z/1423630075', 1, u'1422692530')
+(u'Khan Academy is awesome for math', 'Pearlin', u'http://www.khanacademy.org/cs/khan-academy-is-awesome-for-math/1472949554', 1, u'1422692530')
+(u'Khan Academy math', 'Pearlin', u'http://www.khanacademy.org/cs/khan-academy-math/1473009132', 1, u'1422692530')
+(u'Khan Academy', 'Pamela Peterson (^_^)', u'http://www.khanacademy.org/cs/khan-academy/1533416484', 1, u'1422692530')
+
+Parent's tutorial ID: 1441941952
+(u'Khan Academy', 'Emily Nguyen', u'http://www.khanacademy.org/cs/khan-academy/1443692945', 1, u'1441941952')
+(u'Khan Academy', 'Pamela Peterson (^_^)', u'http://www.khanacademy.org/cs/khan-academy/1445973559', 1, u'1441941952')
+(u'Khan Academy', 'Pamela Peterson (^_^)', u'http://www.khanacademy.org/cs/khan-academy/1475075165', 1, u'1441941952')
+(u'Khan Academy', 'N/A', u'http://www.khanacademy.org/cs/khan-academy/1521655543', 1, u'1441941952')
+(u'Tree', 'Sahitya.4PMTI', u'http://www.khanacademy.org/cs/tree/1587967877', 1, u'1441941952')
+
+Parent's tutorial ID: 1462007430
+(u'Sister spring flower', 'N/A', u'http://www.khanacademy.org/cs/sister-spring-flower/1468936841', 1, u'1462007430')
+(u'Flower', 'Pamela Peterson (^_^)', u'http://www.khanacademy.org/cs/flower/1532419817', 1, u'1462007430')
+(u'Spin-off of "Flower"', 'Pamela Peterson (^_^)', u'http://www.khanacademy.org/cs/spin-off-of-flower/1581061429', 1, u'1462007430')
+
+Parent's tutorial ID: 1529677349
+(u'Mario land : negative!', 'Zach', u'http://www.khanacademy.org/cs/mario-land-negative/1558883398', 1, u'1529677349')
