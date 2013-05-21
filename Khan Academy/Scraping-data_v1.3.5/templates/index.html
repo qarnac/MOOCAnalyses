@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Scraping Data From Khan Academy</title>
+<link href="/stylesheets/style.css" media="screen" rel="Stylesheet" type="text/css" />
+</head>
+<body>
+
+<table id="hor-minimalist-a" summary="Meeting Results">
+    <thead>
+    	<tr>
+        	<th scope="col"><h2>Scraping Data From Khan Academy</h2></th>
+        </tr>
+    </thead>
+    <tfoot>
+    	<tr>
+        	<td>IE 6 users won't see the transparent background if the hack is not applied</td>
+        </tr>
+    </tfoot>
+    <tbody>
+    	<tr>
+        </tr>
+        <tr>
+        	<td><br>
+				<form action="/userDetial" method="post">
+					<label for="user_id">Please enter a user id:</label>
+					<input name="user_id" type="text" value="{{user_id}}"><label style = "color : red">*</label><br><br>
+					<input name="" type="submit" value="Submit">
+				</form>
+			</td>
+        </tr>
+        <tr>
+        	<td colspan = "4"><p style = "color: red">{{message}}</p></td>
+        </tr>
+    </tbody>
+</table>
+</body>
+</html>
